@@ -1,0 +1,79 @@
+# Assets Directory
+
+This directory contains sample assets for the Ai.lonso F1 Digital Companion prototype.
+
+## Required Assets Structure
+
+```
+assets/
+├── drivers/                    # Driver images
+│   ├── max_verstappen.png
+│   ├── lewis_hamilton.png
+│   ├── fernando_alonso.png
+│   ├── charles_leclerc.png
+│   └── lando_norris.png
+├── cars/                       # Car images
+│   ├── red_bull_rb19.png
+│   ├── mercedes_w14.png
+│   ├── aston_martin_amr23.png
+│   ├── ferrari_sf23.png
+│   └── mclaren_mcl60.png
+├── backgrounds/                # Background images
+│   ├── race_track.jpg
+│   ├── pit_lane.jpg
+│   ├── podium.jpg
+│   └── garage.jpg
+├── memes/                      # Meme templates
+│   ├── meme_template_1.jpg
+│   ├── meme_template_2.jpg
+│   └── meme_template_3.jpg
+├── reels/                      # Generated reels
+├── sign_language/              # Sign language animations
+│   ├── sign_start.gif
+│   ├── sign_win.gif
+│   ├── sign_crash.gif
+│   └── sign_language_demo.gif
+├── emotions/                   # Emotion detection images
+│   ├── emotion_happy.jpg
+│   ├── emotion_excited.jpg
+│   ├── emotion_worried.jpg
+│   └── emotion_neutral.jpg
+├── ai_lonso/                   # Ai.lonso avatar images
+│   ├── ai_lonso_happy.jpg
+│   ├── ai_lonso_excited.jpg
+│   └── ai_lonso_worried.jpg
+├── historical/                 # Historical F1 images
+│   ├── historical_2008.jpg
+│   ├── historical_2014.jpg
+│   └── historical_2019.jpg
+├── ar_samples/                 # Sample AR photos
+│   ├── ar_sample_1.jpg
+│   ├── ar_sample_2.jpg
+│   └── ar_sample_3.jpg
+├── logos/                      # Logos and branding
+│   ├── turbo_oil_logo.png
+│   └── ai_lonso_logo.png
+└── music/                      # Background music
+    ├── epic.mp3
+    ├── electronic.mp3
+    └── rock.mp3
+```
+
+## Note
+
+For the prototype, placeholder images will be generated programmatically when assets are not available. In a production environment, these would be actual F1-related images, videos, and audio files.
+
+## Asset Requirements
+
+- **Driver Images**: High-quality PNG images with transparent backgrounds
+- **Car Images**: Side-view car images with transparent backgrounds
+- **Backgrounds**: High-resolution JPG images of F1 locations
+- **Meme Templates**: Popular meme format images
+- **Sign Language GIFs**: Short animation loops for F1 terms
+- **Emotion Images**: Sample emotion detection results
+- **Historical Images**: Significant F1 moments from different eras
+- **AR Samples**: Example AR photo outputs
+- **Logos**: Brand logos and sponsor images
+- **Music**: Short audio clips for video reels
+
+
